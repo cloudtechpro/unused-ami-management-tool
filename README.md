@@ -87,3 +87,19 @@ Validation Error: The owner_account_id parameter is required and cannot be None.
 - **Audit the Unused AMIs**: Review the list of unused AMIs and snapshots to confirm they are safe to delete.
 
 - **IAM Principle of Least Privilege**: Ensure the AWS user/role running this script has only the necessary permissions to perform its tasks.
+
+## Contribution Guidelines
+1. Fork the repository and create a new feature branch.
+2. Follow best practice python coding and security standards.
+3. Submit a pull request and request a review from a maintainer.
+
+## Code of Conduct
+All contributors must:
+- Be respectful and inclusive.
+- Avoid harassment or discriminatory behavior.
+- Follow GitHub’s Community Guidelines.
+
+## Governance Model
+- The project is maintained by a core team of maintainers.
+- Major decisions require consensus among maintainers.
+- Security vulnerabilities are addressed privately before public disclosure.
